@@ -1,2 +1,2 @@
-200,https://yukun.info
-404,https://yukun.info/kcfinder/browse.php
+1,200,https://yukun.info
+2,404,https://yukun.info/kcfinder/browse.php

@@ -10,12 +10,18 @@ except:
 i = 1
 result_list: List[str] = []
 for url in url_list:
-    response = requests.get(url, timeout=(3.0, 7.5)) # (connect timeout, read timeout)
-    print(f"{response.status_code},{url}")
-    result_list.append(str(response.status_code) + "," + url)
-    filename = str(i) + ".txt"
-    with open(filename, "w", encoding = "utf_8") as file:
-        file.write(response.text)
+    try:
+        response = requests.get(url, timeout=(3.0, 7.5)) # (connect timeout, read timeout)
+    except Exception as e:
+        print(e.args)
+        print(f"Error: {url}")
+        result_list.append(str(i) + ",Error," + url)
+    else:
+        print(f"{response.status_code},{url}")
+        result_list.append(str(i) + "," + str(response.status_code) + "," + url)
+        filename = str(i) + ".txt"
+        with open(filename, "w", encoding = "utf_8") as file:
+            file.write(response.text)
     i = i + 1
 
 with open("result.txt", "w", encoding = "utf_8") as file:
