@@ -10,7 +10,7 @@ except:
 i = 1
 result_list: List[str] = []
 for url in url_list:
-    response = requests.get(url)
+    response = requests.get(url, timeout=(3.0, 7.5)) # (connect timeout, read timeout)
     print(f"{response.status_code},{url}")
     result_list.append(str(response.status_code) + "," + url)
     filename = str(i) + ".txt"
