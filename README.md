@@ -25,9 +25,9 @@ https://yukun.info/kcfinder/browse.php
 ・
 ~~~
 
-result.txtにHTTP status code結果と対象URLが','区切りで出力
+result.txtに通番、HTTP status code結果、対象URLが','区切りで出力
 
 ~~~
-200,https://yukun.info
-404,https://yukun.info/kcfinder/browse.php
+1,200,https://yukun.info
+2,404,https://yukun.info/kcfinder/browse.php
 ~~~
