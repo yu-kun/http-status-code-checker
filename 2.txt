@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+  <meta name="viewport" content="width=1280, maximum-scale=1, user-scalable=yes">
+<link rel="alternate" type="application/rss+xml" title="Yukun&#039;s Blog RSS Feed" href="https://yukun.info/feed/" />
+<link rel="pingback" href="https://yukun.info/xmlrpc.php" />
+<meta name="robots" content="noindex,follow">
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="難しいことは分かりやすく、簡単なことは面白く紹介">
+<meta name="twitter:title" content="Yukun&#039;s Blog">
+<meta name="twitter:url" content="https://yukun.info">
+<meta name="twitter:domain" content="yukun.info">
+<meta name="twitter:creator" content="@yukuninfo">
+<meta name="twitter:site" content="@yukuninfo">
+<!-- /Twitter Card -->
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>ページが見つかりません。 | Yukun&#039;s Blog</title>
+	<meta name="robots" content="noindex, follow" />
+	<meta property="og:locale" content="ja_JP" />
+	<meta property="og:title" content="ページが見つかりません。 | Yukun&#039;s Blog" />
+	<meta property="og:site_name" content="Yukun&#039;s Blog" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://yukun.info/#/schema/person/c80ecb62ccb4ae73107324db0653246c","name":"yukun","image":{"@type":"ImageObject","@id":"https://yukun.info/#personlogo","inLanguage":"ja","url":"https://secure.gravatar.com/avatar/16e351735293f6ed3878138829b6078c?s=96&d=retro&r=g","caption":"yukun"},"logo":{"@id":"https://yukun.info/#personlogo"}},{"@type":"WebSite","@id":"https://yukun.info/#website","url":"https://yukun.info/","name":"Yukun&#039;s Blog","description":"\u96e3\u3057\u3044\u3053\u3068\u306f\u5206\u304b\u308a\u3084\u3059\u304f\u3001\u7c21\u5358\u306a\u3053\u3068\u306f\u9762\u767d\u304f\u7d39\u4ecb","publisher":{"@id":"https://yukun.info/#/schema/person/c80ecb62ccb4ae73107324db0653246c"},"potentialAction":[{"@type":"SearchAction","target":"https://yukun.info/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ja"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Yukun&#039;s Blog &raquo; フィード" href="https://yukun.info/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Yukun&#039;s Blog &raquo; コメントフィード" href="https://yukun.info/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/yukun.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='simplicity-style-css'  href='https://yukun.info/wp-content/themes/simplicity2/style.css?ver=5.5.1&#038;fver=20181124023045' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-style-css'  href='https://yukun.info/wp-content/themes/simplicity2/css/responsive-pc.css?ver=5.5.1&#038;fver=20181124023045' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-style-css'  href='https://yukun.info/wp-content/themes/simplicity2/webfonts/css/font-awesome.min.css?ver=5.5.1&#038;fver=20181124023045' type='text/css' media='all' />
+<link rel='stylesheet' id='icomoon-style-css'  href='https://yukun.info/wp-content/themes/simplicity2/webfonts/icomoon/style.css?ver=5.5.1&#038;fver=20181124023045' type='text/css' media='all' />
+<link rel='stylesheet' id='extension-style-css'  href='https://yukun.info/wp-content/themes/simplicity2/css/extension.css?ver=5.5.1&#038;fver=20181124023045' type='text/css' media='all' />
+<style id='extension-style-inline-css' type='text/css'>
+ul.snsp li.twitter-page a span{background-color:#55acee}ul.snsp li.facebook-page a span{background-color:#3b5998}ul.snsp li.google-plus-page a span{background-color:#dd4b39}ul.snsp li.instagram-page a span{background-color:#3f729b}ul.snsp li.hatebu-page a span{background-color:#008fde}ul.snsp li.pinterest-page a span{background-color:#cc2127}ul.snsp li.youtube-page a span{background-color:#e52d27}ul.snsp li.flickr-page a span{background-color:#1d1d1b}ul.snsp li.github-page a span{background-color:#24292e}ul.snsp li.line-page a span{background-color:#00c300}ul.snsp li.feedly-page a span{background-color:#87bd33}ul.snsp li.push7-page a span{background-color:#eeac00}ul.snsp li.rss-page a span{background-color:#fe9900}ul.snsp li a:hover{opacity:.7}@media screen and (max-width:639px){.article br{display:block}}
+</style>
+<link rel='stylesheet' id='child-style-css'  href='https://yukun.info/wp-content/themes/simplicity2-child/style.css?ver=5.5.1&#038;fver=20181124023113' type='text/css' media='all' />
+<link rel='stylesheet' id='print-style-css'  href='https://yukun.info/wp-content/themes/simplicity2/css/print.css?ver=5.5.1&#038;fver=20181124023045' type='text/css' media='print' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://yukun.info/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://yukun.info/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1484305-10', 'auto');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+</script>
+<!-- /Google Analytics -->
+</head>
+  <body class="error404" itemscope itemtype="https://schema.org/WebPage">
+    <div id="container">
+
+      <!-- header -->
+      <header itemscope itemtype="https://schema.org/WPHeader">
+        <div id="header" class="clearfix">
+          <div id="header-in">
+
+                        <div id="h-top">
+              <!-- モバイルメニュー表示用のボタン -->
+<div id="mobile-menu">
+  <a id="mobile-menu-toggle" href="#"><span class="fa fa-bars fa-2x"></span></a>
+</div>
+
+              <div class="alignleft top-title-catchphrase">
+                <!-- サイトのタイトル -->
+<p id="site-title" itemscope itemtype="https://schema.org/Organization">
+  <a href="https://yukun.info/">Yukun&#039;s Blog</a></p>
+<!-- サイトの概要 -->
+<p id="site-description">
+  難しいことは分かりやすく、簡単なことは面白く紹介</p>
+              </div>
+
+              <div class="alignright top-sns-follows">
+                                <!-- SNSページ -->
+<div class="sns-pages">
+<p class="sns-follow-msg">フォローする</p>
+<ul class="snsp">
+<li class="twitter-page"><a href="//twitter.com/yukuninfo" target="_blank" title="Twitterをフォロー" rel="nofollow"><span class="icon-twitter-logo"></span></a></li><li class="instagram-page"><a href="//instagram.com/yukun.info" target="_blank" title="Instagramをフォロー" rel="nofollow"><span class="icon-instagram-logo"></span></a></li><li class="youtube-page"><a href="https://www.youtube.com/channel/UCult47svroilQ_Z1rStZksg" target="_blank" title="YouTubeをフォロー" rel="nofollow"><span class="icon-youtube-logo"></span></a></li><li class="github-page"><a href="//github.com/yu-kun" target="_blank" title="GitHubをフォロー" rel="nofollow"><span class="icon-github-logo"></span></a></li><li class="rss-page"><a href="https://yukun.info/feed/" target="_blank" title="RSSで更新情報をフォロー" rel="nofollow"><span class="icon-rss-logo"></span></a></li>  </ul>
+</div>
+                              </div>
+
+            </div><!-- /#h-top -->
+          </div><!-- /#header-in -->
+        </div><!-- /#header -->
+      </header>
+
+      <!-- Navigation -->
+<nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+  <div id="navi">
+      	<div id="navi-in">
+      <div class="menu-%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc-container"><ul id="menu-%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc" class="menu"><li id="menu-item-4704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4704"><a href="https://yukun.info/about/">About</a></li>
+<li id="menu-item-4705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4705"><a href="https://yukun.info/sitemap/">Sitemap</a></li>
+<li id="menu-item-4604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4604"><a href="https://yukun.info/link/">Link</a></li>
+</ul></div>    </div><!-- /#navi-in -->
+  </div><!-- /#navi -->
+</nav>
+<!-- /Navigation -->
+      <!-- 本体部分 -->
+      <div id="body">
+        <div id="body-in" class="cf">
+
+          
+          <!-- main -->
+          <main itemscope itemprop="mainContentOfPage">
+            <div id="main" itemscope itemtype="https://schema.org/Blog">
+<div class="post">
+  <!--ループ開始-->
+  <h2 class="entry-title">ページが見つかりませんでした</h2>
+      <img class="not-found" src="https://yukun.info/wp-content/themes/simplicity2/images/404.png" alt="404 Not Found" />
+    
+  
+</div>
+<!-- END div.post -->
+            </div><!-- /#main -->
+          </main>
+        <!-- sidebar -->
+<div id="sidebar" role="complementary">
+    
+  <div id="sidebar-widget">
+  <!-- ウイジェット -->
+  <aside id="text-2" class="widget widget_text"><h3 class="widget_title sidebar_widget_title">検索</h3>			<div class="textwidget"><p><script>
+  (function() {
+    var cx = 'partner-pub-3016567262646093:4205728732';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script><br />
+<gcse:searchbox-only></gcse:searchbox-only></p>
+</div>
+		</aside><aside id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>2020年10月</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="月曜日">月</th>
+		<th scope="col" title="火曜日">火</th>
+		<th scope="col" title="水曜日">水</th>
+		<th scope="col" title="木曜日">木</th>
+		<th scope="col" title="金曜日">金</th>
+		<th scope="col" title="土曜日">土</th>
+		<th scope="col" title="日曜日">日</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td colspan="3" class="pad">&nbsp;</td><td>1</td><td id="today">2</td><td>3</td><td>4</td>
+	</tr>
+	<tr>
+		<td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td>
+	</tr>
+	<tr>
+		<td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td>
+	</tr>
+	<tr>
+		<td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td>
+	</tr>
+	<tr>
+		<td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="1">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="前と次の月" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="https://yukun.info/2020/05/">&laquo; 5月</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></aside>
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h3 class="widget_title sidebar_widget_title">最近の投稿</h3>
+		<ul>
+											<li>
+					<a href="https://yukun.info/python-covid19-tokyo-opendata/">Python: 東京都 新型コロナウイルス(COVID-19)陽性患者発表詳細のcsvデータを積み上げグラフ表示</a>
+											<span class="post-date">2020-05-06</span>
+									</li>
+											<li>
+					<a href="https://yukun.info/vscode-github-host-key-verification/">VS Code: ホストのssh鍵をコンテナから利用／リモートコンテナからGitHubへのpush時のHost key verification failedエラー解決法</a>
+											<span class="post-date">2020-04-27</span>
+									</li>
+											<li>
+					<a href="https://yukun.info/django-missing-app-module-error/">Django: エラー解決法 TypeError: __init__() missing 1 required positional argument: &#8216;app_module&#8217;</a>
+											<span class="post-date">2020-04-18</span>
+									</li>
+											<li>
+					<a href="https://yukun.info/django-unknown-command-error/">Django: エラー解決法 Unknown command: &#8216;~&#8217; Type &#8216;manage.py help&#8217; for usage.</a>
+											<span class="post-date">2020-04-17</span>
+									</li>
+											<li>
+					<a href="https://yukun.info/vscode-git-permission-denied/">VS Code: gitのPermission denied (publickey)やInvalid username or password. fatal: Authentication failedの解決法</a>
+											<span class="post-date">2020-04-16</span>
+									</li>
+											<li>
+					<a href="https://yukun.info/kubernetes-error-conntrack/">Kubernetes: エラー解決法 requires conntrack to be installed in root&#8217;s path</a>
+											<span class="post-date">2020-04-14</span>
+									</li>
+											<li>
+					<a href="https://yukun.info/vscode-flask-not-found-error/">VSCode: エラー解決法 ModuleNotFoundError: No module named ‘flask&#8217;</a>
+											<span class="post-date">2020-04-11</span>
+									</li>
+											<li>
+					<a href="https://yukun.info/django-centos-mysqlclient-error/">Django: CentOS上でのmysqlclientインストールエラーの解決法</a>
+											<span class="post-date">2020-02-12</span>
+									</li>
+											<li>
+					<a href="https://yukun.info/python-pip-install-mysqlclient-catalina/">Python: macOS (Catalina)でのpip install mysqlclient エラーの解決法</a>
+											<span class="post-date">2019-12-25</span>
+									</li>
+											<li>
+					<a href="https://yukun.info/mac-mail-account-register-error/">Mac OS Mail: アカウント登録時の&#8221;Unable to verify account name or password&#8221;エラーの解決法</a>
+											<span class="post-date">2019-12-19</span>
+									</li>
+					</ul>
+
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget_title sidebar_widget_title">カテゴリー</h3>
+			<ul>
+					<li class="cat-item cat-item-2"><a href="https://yukun.info/category/actionscript/">ActionScript</a> (21)
+</li>
+	<li class="cat-item cat-item-3"><a href="https://yukun.info/category/android/">Android</a> (11)
+</li>
+	<li class="cat-item cat-item-200"><a href="https://yukun.info/category/ansible/">Ansible</a> (4)
+</li>
+	<li class="cat-item cat-item-4"><a href="https://yukun.info/category/business/">Business</a> (6)
+</li>
+	<li class="cat-item cat-item-5"><a href="https://yukun.info/category/cc/">C/C++</a> (10)
+</li>
+	<li class="cat-item cat-item-6"><a href="https://yukun.info/category/csharp/">C#</a> (2)
+</li>
+	<li class="cat-item cat-item-9"><a href="https://yukun.info/category/days/">Days</a> (25)
+</li>
+	<li class="cat-item cat-item-207"><a href="https://yukun.info/category/django/">Django</a> (8)
+</li>
+	<li class="cat-item cat-item-8"><a href="https://yukun.info/category/docker/">Docker</a> (9)
+</li>
+	<li class="cat-item cat-item-11"><a href="https://yukun.info/category/english/">English</a> (42)
+</li>
+	<li class="cat-item cat-item-12"><a href="https://yukun.info/category/excel-vba/">Excel VBA</a> (2)
+</li>
+	<li class="cat-item cat-item-13"><a href="https://yukun.info/category/ingress/">Ingress</a> (3)
+</li>
+	<li class="cat-item cat-item-14"><a href="https://yukun.info/category/java/">Java</a> (29)
+</li>
+	<li class="cat-item cat-item-15"><a href="https://yukun.info/category/javascript/">JavaScript</a> (2)
+</li>
+	<li class="cat-item cat-item-227"><a href="https://yukun.info/category/kubernetes/">Kubernetes</a> (1)
+</li>
+	<li class="cat-item cat-item-16"><a href="https://yukun.info/category/linux/">Linux</a> (33)
+</li>
+	<li class="cat-item cat-item-17"><a href="https://yukun.info/category/mac/">Mac</a> (5)
+</li>
+	<li class="cat-item cat-item-202"><a href="https://yukun.info/category/mining/">Mining</a> (2)
+</li>
+	<li class="cat-item cat-item-19"><a href="https://yukun.info/category/network/">Network</a> (3)
+</li>
+	<li class="cat-item cat-item-20"><a href="https://yukun.info/category/pebble/">Pebble</a> (1)
+</li>
+	<li class="cat-item cat-item-21"><a href="https://yukun.info/category/php/">PHP</a> (7)
+</li>
+	<li class="cat-item cat-item-22"><a href="https://yukun.info/category/python/">Python</a> (65)
+</li>
+	<li class="cat-item cat-item-23"><a href="https://yukun.info/category/r/">R</a> (6)
+</li>
+	<li class="cat-item cat-item-24"><a href="https://yukun.info/category/redmine/">Redmine</a> (3)
+</li>
+	<li class="cat-item cat-item-25"><a href="https://yukun.info/category/revision-control/">Revision control</a> (7)
+</li>
+	<li class="cat-item cat-item-26"><a href="https://yukun.info/category/ruby/">Ruby</a> (11)
+</li>
+	<li class="cat-item cat-item-27"><a href="https://yukun.info/category/security/">Security</a> (16)
+</li>
+	<li class="cat-item cat-item-18"><a href="https://yukun.info/category/sql/">SQL</a> (10)
+</li>
+	<li class="cat-item cat-item-28"><a href="https://yukun.info/category/system-i/">System i</a> (20)
+</li>
+	<li class="cat-item cat-item-218"><a href="https://yukun.info/category/trip/">Trip</a> (1)
+</li>
+	<li class="cat-item cat-item-29"><a href="https://yukun.info/category/vm/">Virtual Machine</a> (6)
+</li>
+	<li class="cat-item cat-item-30"><a href="https://yukun.info/category/websphere-mq/">WebSphere MQ</a> (20)
+</li>
+	<li class="cat-item cat-item-31"><a href="https://yukun.info/category/windows/">Windows</a> (4)
+</li>
+	<li class="cat-item cat-item-32"><a href="https://yukun.info/category/wordpress/">WordPress</a> (11)
+</li>
+			</ul>
+
+			</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget_title sidebar_widget_title">アーカイブ</h3>		<label class="screen-reader-text" for="archives-dropdown-2">アーカイブ</label>
+		<select id="archives-dropdown-2" name="archive-dropdown">
+			
+			<option value="">月を選択</option>
+				<option value='https://yukun.info/2020/05/'> 2020年5月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2020/04/'> 2020年4月 &nbsp;(6)</option>
+	<option value='https://yukun.info/2020/02/'> 2020年2月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2019/12/'> 2019年12月 &nbsp;(4)</option>
+	<option value='https://yukun.info/2019/05/'> 2019年5月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2019/03/'> 2019年3月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2019/02/'> 2019年2月 &nbsp;(10)</option>
+	<option value='https://yukun.info/2019/01/'> 2019年1月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2018/12/'> 2018年12月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2018/09/'> 2018年9月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2018/08/'> 2018年8月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2018/06/'> 2018年6月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2016/09/'> 2016年9月 &nbsp;(5)</option>
+	<option value='https://yukun.info/2016/08/'> 2016年8月 &nbsp;(8)</option>
+	<option value='https://yukun.info/2016/07/'> 2016年7月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2016/04/'> 2016年4月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2016/03/'> 2016年3月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2016/02/'> 2016年2月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2016/01/'> 2016年1月 &nbsp;(7)</option>
+	<option value='https://yukun.info/2015/12/'> 2015年12月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2015/10/'> 2015年10月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2015/09/'> 2015年9月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2015/06/'> 2015年6月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2015/05/'> 2015年5月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2015/03/'> 2015年3月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2015/02/'> 2015年2月 &nbsp;(8)</option>
+	<option value='https://yukun.info/2015/01/'> 2015年1月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2014/10/'> 2014年10月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2014/09/'> 2014年9月 &nbsp;(6)</option>
+	<option value='https://yukun.info/2014/08/'> 2014年8月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2014/07/'> 2014年7月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2014/06/'> 2014年6月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2014/05/'> 2014年5月 &nbsp;(6)</option>
+	<option value='https://yukun.info/2014/04/'> 2014年4月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2014/03/'> 2014年3月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2014/02/'> 2014年2月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2014/01/'> 2014年1月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2013/12/'> 2013年12月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2013/11/'> 2013年11月 &nbsp;(4)</option>
+	<option value='https://yukun.info/2013/09/'> 2013年9月 &nbsp;(4)</option>
+	<option value='https://yukun.info/2013/08/'> 2013年8月 &nbsp;(7)</option>
+	<option value='https://yukun.info/2013/07/'> 2013年7月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2013/06/'> 2013年6月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2013/05/'> 2013年5月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2013/04/'> 2013年4月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2013/03/'> 2013年3月 &nbsp;(7)</option>
+	<option value='https://yukun.info/2013/02/'> 2013年2月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2013/01/'> 2013年1月 &nbsp;(18)</option>
+	<option value='https://yukun.info/2012/12/'> 2012年12月 &nbsp;(8)</option>
+	<option value='https://yukun.info/2012/11/'> 2012年11月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2012/10/'> 2012年10月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2012/09/'> 2012年9月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2012/08/'> 2012年8月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2012/07/'> 2012年7月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2012/05/'> 2012年5月 &nbsp;(10)</option>
+	<option value='https://yukun.info/2012/01/'> 2012年1月 &nbsp;(4)</option>
+	<option value='https://yukun.info/2011/12/'> 2011年12月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2011/10/'> 2011年10月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2011/09/'> 2011年9月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2011/08/'> 2011年8月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2011/04/'> 2011年4月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2011/03/'> 2011年3月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2011/02/'> 2011年2月 &nbsp;(5)</option>
+	<option value='https://yukun.info/2011/01/'> 2011年1月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2010/11/'> 2010年11月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2010/07/'> 2010年7月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2010/06/'> 2010年6月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2010/05/'> 2010年5月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2010/04/'> 2010年4月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2010/03/'> 2010年3月 &nbsp;(4)</option>
+	<option value='https://yukun.info/2010/02/'> 2010年2月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2010/01/'> 2010年1月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2009/06/'> 2009年6月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2009/05/'> 2009年5月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2009/03/'> 2009年3月 &nbsp;(12)</option>
+	<option value='https://yukun.info/2009/02/'> 2009年2月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2009/01/'> 2009年1月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2008/12/'> 2008年12月 &nbsp;(8)</option>
+	<option value='https://yukun.info/2008/11/'> 2008年11月 &nbsp;(15)</option>
+	<option value='https://yukun.info/2008/10/'> 2008年10月 &nbsp;(14)</option>
+	<option value='https://yukun.info/2008/09/'> 2008年9月 &nbsp;(16)</option>
+	<option value='https://yukun.info/2008/08/'> 2008年8月 &nbsp;(11)</option>
+	<option value='https://yukun.info/2008/07/'> 2008年7月 &nbsp;(9)</option>
+	<option value='https://yukun.info/2008/06/'> 2008年6月 &nbsp;(21)</option>
+	<option value='https://yukun.info/2008/05/'> 2008年5月 &nbsp;(6)</option>
+	<option value='https://yukun.info/2008/03/'> 2008年3月 &nbsp;(5)</option>
+	<option value='https://yukun.info/2008/02/'> 2008年2月 &nbsp;(7)</option>
+	<option value='https://yukun.info/2008/01/'> 2008年1月 &nbsp;(13)</option>
+	<option value='https://yukun.info/2007/11/'> 2007年11月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2007/10/'> 2007年10月 &nbsp;(2)</option>
+	<option value='https://yukun.info/2007/09/'> 2007年9月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2007/08/'> 2007年8月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2007/06/'> 2007年6月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2007/05/'> 2007年5月 &nbsp;(1)</option>
+	<option value='https://yukun.info/2007/04/'> 2007年4月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2007/03/'> 2007年3月 &nbsp;(7)</option>
+	<option value='https://yukun.info/2007/02/'> 2007年2月 &nbsp;(10)</option>
+	<option value='https://yukun.info/2006/11/'> 2006年11月 &nbsp;(3)</option>
+	<option value='https://yukun.info/2006/07/'> 2006年7月 &nbsp;(8)</option>
+
+		</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+			</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget_title sidebar_widget_title">最近のコメント</h3><ul id="recentcomments"><li class="recentcomments"><a href="https://yukun.info/python-file/#comment-4867">Python: テキストファイルの読み込み &#8211; read()、readlines()、readline()メソッド</a> に <span class="comment-author-link"><a href='https://yurinohaku.net/%e3%80%90python%e3%80%91%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%81%8b%e3%82%89%e4%b8%80%e6%96%87%e5%8f%96%e5%be%97%e3%80%81%e6%97%a5%e6%99%82%e3%82%92%e5%8f%96%e5%be%97%e3%81%97' rel='external nofollow ugc' class='url'>【Python】テキストから一文取得、日時を取得して挨拶ツイート文を作るスクリプト | 百合野ハクの備忘録</a></span> より</li><li class="recentcomments"><a href="https://yukun.info/java-excite-translation/#comment-4757">JavaプログラムからExcite翻訳を利用</a> に <span class="comment-author-link"><a href='https://experience-memory.com/cloud-translation-api/' rel='external nofollow ugc' class='url'>GCPのCloud Translation APIをPHPとJavaScriptで動かしてみる｜ゆーたろうライブラリ</a></span> より</li><li class="recentcomments"><a href="https://yukun.info/csharp-timer/#comment-4609">C#でキッチンタイマーを作ろう</a> に <span class="comment-author-link">yukun</span> より</li><li class="recentcomments"><a href="https://yukun.info/csharp-timer/#comment-4536">C#でキッチンタイマーを作ろう</a> に <span class="comment-author-link">匿名</span> より</li><li class="recentcomments"><a href="https://yukun.info/kubernetes-error-conntrack/#comment-4249">Kubernetes: エラー解決法 requires conntrack to be installed in root&#8217;s path</a> に <span class="comment-author-link">yukun</span> より</li></ul></aside>  </div>
+
+  
+</div><!-- /#sidebar -->
+        </div><!-- /#body-in -->
+      </div><!-- /#body -->
+
+      <!-- footer -->
+      <footer itemscope itemtype="https://schema.org/WPFooter">
+        <div id="footer" class="main-footer">
+          <div id="footer-in">
+
+            
+          <div class="clear"></div>
+            <div id="copyright" class="wrapper">
+                            <div class="credit">
+                &copy; 2006  <a href="https://yukun.info">Yukun&#039;s Blog</a>.              </div>
+
+                          </div>
+        </div><!-- /#footer-in -->
+        </div><!-- /#footer -->
+      </footer>
+      <div id="page-top">
+      <a id="move-page-top"><span class="fa fa-angle-double-up fa-2x"></span></a>
+  
+</div>
+          </div><!-- /#container -->
+      <script>
+    (function(){
+        var f = document.querySelectorAll(".video-click");
+        for (var i = 0; i < f.length; ++i) {
+        f[i].onclick = function () {
+          var iframe = this.getAttribute("data-iframe");
+          this.parentElement.innerHTML = '<div class="video">' + iframe + '</div>';
+        }
+        }
+    })();
+  </script>
+  <script src="https://yukun.info/wp-content/themes/simplicity2/javascript.js?ver=5.5.1&#038;fver=20181124023045" defer></script>
+<script src="https://yukun.info/wp-content/themes/simplicity2-child/javascript.js?ver=5.5.1&#038;fver=20181124023113" defer></script>
+<script type='text/javascript' src='https://yukun.info/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+                
+
+    
+  </body>
+</html>
