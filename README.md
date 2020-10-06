@@ -1,5 +1,5 @@
 # http-status-code-checker
-Check the HTTP status codes (404 and 200) from bulk URLs.
+Check the HTTP status codes (such as 200, 404, etc) from bulk URLs.
 
 ## 準備
 
